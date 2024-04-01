@@ -1,0 +1,49 @@
+li{
+    list-style: none;
+}
+nav {
+    background-color:black;
+    padding: 0px 0; 
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    display: inline; 
+    margin-right: 20px;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+    padding: 90px;
+}
+
+a:hover {
+    background-color: #555;
+}
+      table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        th, td {
+            border: 0;
+            text-align: center;
+        }
+        body {
+            background-image: url(schedulebg.jpg);
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+            background-size: cover ; 
+            background-position: center;
+            
+        }
+        header {
+            background-color: #333;
+            background-size: contain;
+        }
+  
